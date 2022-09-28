@@ -1,4 +1,6 @@
 package com.example.hellokotlin.DataBinding
 
-class SplashDataBinding {
+import androidx.lifecycle.ViewModel
+
+class SplashDataBinding : ViewModel(){
 }

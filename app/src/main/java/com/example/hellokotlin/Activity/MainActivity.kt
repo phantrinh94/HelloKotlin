@@ -2,6 +2,7 @@ package com.example.hellokotlin.Activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.hellokotlin.DataBinding.SplashDataBinding
 import com.example.hellokotlin.R
 
 class MainActivity : AppCompatActivity() {
